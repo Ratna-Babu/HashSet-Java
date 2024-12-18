@@ -38,7 +38,8 @@ In the provided Java code, we create two `HashSet` objects, `set1` and `set2`, a
 - **clear()**: Removes all elements from the set.
 - **isEmpty()**: Checks if the set is empty.
 
-```Code
+### Code
+```Java
 import java.util.Set;
 import java.util.HashSet;
 
@@ -57,7 +58,7 @@ public class HashSetDemo {
     }
 }
 ```
-## Output
+### Output
 ```
 Set 1:[2, 3]
 Set 2: [1, 2]
